@@ -1,0 +1,12 @@
+.center-block{
+}
+
+.card{
+    width: 70% !important;
+    flex-wrap: wrap !important;
+    align-content: center !important;
+}
+.btn1{
+    width: 30%;
+    margin: 10px auto !important;
+}
